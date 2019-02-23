@@ -9,7 +9,7 @@ public class CarbSliderUpdater : MonoBehaviour
     public Slider sl;
     GameManager gm;
     //public float carbs;
-    public float weight = 500;
+    public float weight;
     public string gender;
 
     void awake()
