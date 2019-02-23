@@ -10,7 +10,7 @@ public class Camera_Movement : MonoBehaviour
     private int i = 1;
     public int noOfScenes = 4;
    
-    public void moveRight() {
+   public void moveRight() {
         i = (i + 1)% noOfScenes;
         
         move();
