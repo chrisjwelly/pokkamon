@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SliderUpdater : MonoBehaviour
+public class CarbSliderUpdater : MonoBehaviour
 {
     //public string stat;
     public Slider sl;
     GameManager gm;
     //public float carbs;
-    public float weight = 500;
+    public float weight;
     public string gender;
 
     void awake()
@@ -33,7 +33,7 @@ public class SliderUpdater : MonoBehaviour
         // if sl.value > 0.6, then things start happening to pet
         if (sl.value > 0.6)
         {
-            Debug.Log("STOP EATING CARBS"); // tentative output
+            Debug.Log("STOP EATING CARBS"); // tentative output. pet becomes zombie-like.
         }
     }
 }
