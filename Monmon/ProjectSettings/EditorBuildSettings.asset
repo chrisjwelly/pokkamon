@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 6df76512ce3b54442ab480d48338a62c
+  - enabled: 1
+    path: Assets/Scenes/StreakPage.unity
+    guid: 86d072530d462de4e9f0b39a5b22a03b
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 97924632d86d6594194c675dfad34f5b
+  - enabled: 1
+    path: Assets/Scenes/Clinic.unity
+    guid: 85fe9a062ec74304b99458588a378edc
+  - enabled: 1
+    path: Assets/Scenes/Statistics.unity
+    guid: be871b912d817df43bdd163b428547f0
   m_configObjects: {}
