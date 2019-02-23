@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// TOHanna was here
 public class SliderUpdater : MonoBehaviour
 {
     public string stat;
