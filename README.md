@@ -1,6 +1,9 @@
 # pokkamon
 <pre>
 Hackomania 2019
+
+To use firebase, import the asset "Rest Client for Unity" from the asset store
+
 How to convert String to JSON:
 https://answers.unity.com/questions/1443367/get-json-array-object-string-value.html
 
