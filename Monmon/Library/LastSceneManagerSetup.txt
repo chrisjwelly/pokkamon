@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Clinic.unity
+- path: Assets/Scenes/Room.unity
   isLoaded: 1
   isActive: 1

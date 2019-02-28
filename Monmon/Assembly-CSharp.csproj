@@ -85,9 +85,14 @@
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Script\API2.cs" />
+    <Compile Include="Assets\Script\BMICalc.cs" />
     <Compile Include="Assets\Script\Camera_Movement.cs" />
+    <Compile Include="Assets\Script\PlayerScores.cs" />
+    <Compile Include="Assets\Script\RandomQuote.cs" />
     <Compile Include="Assets\Script\SceneLoader.cs" />
     <Compile Include="Assets\Script\SliderUpdater.cs" />
+    <Compile Include="Assets\Script\User.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Anima2D\Examples\Shaders\VisibleInsideMask.shader" />
